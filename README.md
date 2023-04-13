@@ -3,7 +3,7 @@ Creating a customized and simple assembler to work with MIPS called Miniature As
 [Project1.pdf](https://github.com/M-Amin-Kiani/My_Assembler/files/11223442/Project1.pdf)
 
 
-errorx.as ==> can't run
+errorx.as ==> can't run  // ==== //
 runx.as ==> convert to runx.mc
 
 
