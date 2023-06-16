@@ -11,16 +11,15 @@ at first you should do :
 1. download gcc - MinGw( if you have not )
 2. then open powershell in the target ( shift + right click )
 3. ?
-4. |
-5. |
-6. V
 
 Assembler :
 ------------------------------------------------
  >> gcc -o x x.c
+ >> 
  >> ./x x.as x.mc
 
 Simulator :
 -------------------------------------------------
  >> gcc -o y y.c
+ >> 
  >> ./y y.mc y.gui
